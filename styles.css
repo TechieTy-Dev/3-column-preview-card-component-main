@@ -86,6 +86,7 @@ button{
     background: var(--orange);
     border: solid 1px var(--white);
     color: var(--gray);
+    cursor: pointer;
 }
 
 /* SUVS */
@@ -126,6 +127,7 @@ button{
     background: var(--cyan);
     border: solid 1px var(--white);
     color: var(--gray);
+    cursor: pointer;
 }
 
 /* LUXURY */
@@ -167,6 +169,7 @@ button{
     background: var(--dark-cyan);
     border: solid 1px var(--white);
     color: var(--gray);
+    cursor: pointer;
 }
 
 @media screen and (min-width: 767px) {
